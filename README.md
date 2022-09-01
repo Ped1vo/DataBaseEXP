@@ -1,4 +1,5 @@
 # DataBaseEXP
-curso de database experience da DIO
--- Modelo E-commerce
--- Modelo Oficina
+## Curso de database experience da DIO
+#### Modelando databases
+* E-commerce
+* Oficina
