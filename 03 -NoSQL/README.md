@@ -20,7 +20,7 @@
 
 ### NoSQL
 
-    NoSQL = Not Only SQL(Não Apenas SQL) → surgiu como uma alternativa ao SQL e não para tentar substituir. Necessidade veio principalmente por conta de escalabilidade(ter que armazenar cada vez mais informações e dados não estruturados). NoSQL veio para suprir o que os bancos relacionais não conseguiam. Devem ser usados de forma que se complementem
+​  NoSQL = Not Only SQL(Não Apenas SQL) → surgiu como uma alternativa ao SQL e não para tentar substituir. Necessidade veio principalmente por conta de escalabilidade(ter que armazenar cada vez mais informações e dados não estruturados). NoSQL veio para suprir o que os bancos relacionais não conseguiam. Devem ser usados de forma que se complementem
 
 ### Características do NoSQL
 
